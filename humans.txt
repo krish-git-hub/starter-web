@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Krishna -- <role> ITA -- <twitter>
 
 # THANKS
 
-    <name>
+    <name> Krishna
 
 # TECHNOLOGY COLOPHON
 
