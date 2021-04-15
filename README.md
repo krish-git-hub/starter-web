@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 new line added
 another line added
+check line adde
+work area
 ## Purpose
 
 Sample website with plenty of files for demos
