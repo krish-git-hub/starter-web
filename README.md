@@ -7,6 +7,7 @@ check line adde
 work area
 Readme file updated
 copyright notice
+modified
 ## Purpose
 
 Sample website with plenty of files for demos
