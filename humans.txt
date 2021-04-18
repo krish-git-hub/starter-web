@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name> Krishna Teja
+    <name> Krishna Teja Kapu
 
 # TECHNOLOGY COLOPHON
 
