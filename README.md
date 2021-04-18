@@ -8,6 +8,7 @@ work area
 Readme file updated
 copyright notice
 modified
+new line added
 ## Purpose
 
 Sample website with plenty of files for demos
