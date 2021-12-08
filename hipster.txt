@@ -1,2 +1,6 @@
 hipster
+<<<<<<< HEAD
 fffff
+=======
+add
+>>>>>>> nbranch
